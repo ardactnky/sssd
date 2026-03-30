@@ -5,3 +5,5 @@ def greet(name):
 
 # Calling the function
 print(greet("Alice"))
+
+print("hello world")
